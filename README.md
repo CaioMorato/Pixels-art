@@ -17,3 +17,4 @@
 
 ### Abaixo minha nota e os requisitos solicitados
 
+![image](https://user-images.githubusercontent.com/68545727/118413054-bc34c000-b673-11eb-9f9f-06568e0d601c.png)
