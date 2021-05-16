@@ -1,0 +1,100 @@
+body {
+  font-family: 'Neucha', cursive;
+  background-image: url(wallpaper.jpg);
+  background-size: cover;
+}
+video {
+  position: absolute;
+  width: 99.4%;
+  height: 100%;
+  top: 0;
+  z-index: 0;
+}
+
+button {
+  font-family: 'Neucha', cursive;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #2c8c99;
+  color: #2c8c99;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 0.61);
+}
+
+button:hover {
+  transform: 1000ms;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+input {
+  border-radius: 6px;
+  font-family: 'Neucha', cursive;
+  height: 25px;
+  width: 10%;
+  font-size: 17px;
+  background-color: rgba(255, 255, 255, 0.37);
+  border: 1px solid #2c8c99;
+
+}
+
+#title {
+  margin-top: 3%;
+  text-align: center;
+  position: relative;
+  font-size: 3em;
+  color: #326771;
+  text-shadow: white;
+}
+
+#color-palette {
+  position: relative;
+  padding: 10px;
+  width: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  text-align: center;
+}
+
+.color {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  position: relative;
+  border-radius: 50%;
+  box-shadow: 2px 2px 7px 2px #cad8de;
+  border: 1px solid #511730;
+}
+
+#interacoes {
+  position: relative;
+  left: 39%;
+}
+
+#pixel-board {
+  margin: auto;
+  margin-top: 2%;
+  width: fit-content;
+  position: relative;
+  display: table;
+  border-spacing: 0;
+}
+
+.rowDiv {
+  margin: 0;
+  height: 42px;
+  display: table-row;
+  border-spacing: 0;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 0.9px;
+  background-color: white;
+  display: table-cell;
+  border-spacing: 0;
+}
