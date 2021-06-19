@@ -15,10 +15,6 @@
   - Criação de elementos HTML de forma dinâmica.
   - Filtros com condicionais pra atender o tamanho específico do board.
 
-### Abaixo minha nota e os requisitos solicitados
-
-![image](https://user-images.githubusercontent.com/68545727/118413054-bc34c000-b673-11eb-9f9f-06568e0d601c.png)
-
 # - Imagens do projeto:
 ![image](https://user-images.githubusercontent.com/68545727/120834973-1e2d6a80-c53a-11eb-8d98-9f92a5507de9.png)
 
